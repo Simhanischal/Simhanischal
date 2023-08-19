@@ -7,17 +7,16 @@
 
 
 <a href="https://linkedin.com/in/nischal-simha-79753662">
-  <img align="left" alt="Nischal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Nischal's LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" />
 </a>
 <a href="https://nischalsimha.netlify.app">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
-</a>
+  <img align="left" alt="Nischal's Portfolio" width="22px" src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-1024.png" />
 
 <br />
 <br />
 
 **About Me**
-- 💼 Software Engineer at Accenture
+- 💼 Software Engineer at Oracle Cerner
 - ❤️ I love writing JavaScript and building Web UI 
 - 💬 Reach out to me on my [mail](mailto:nischalsimhas@gmail.com)
 
