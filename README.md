@@ -16,7 +16,7 @@
 <br />
 
 **About Me**
-- 💼 Software Engineer at Oracle Cerner
+- 💼 Software Engineer at Oracle
 - ❤️ I love writing JavaScript and building Web UI 
 - 💬 Reach out to me on my [mail](mailto:nischalsimhas@gmail.com)
 
